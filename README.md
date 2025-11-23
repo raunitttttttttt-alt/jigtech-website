@@ -29,3 +29,20 @@ Platform: WordPress<br>
 Backend: PHP, MySQL<br>
 Frontend: HTML5, CSS3, JavaScript<br>
 Key Plugins: WPForms, Elementor, Yoast SEO
+
+
+## 🎯 Project Highlights
+
+- ✅ Custom theme development
+- ✅ Booking system integration
+- ✅ Mobile-first responsive design
+- ✅ Performance optimized (95+ PageSpeed)
+- ✅ Client satisfaction: 5/5 ⭐
+
+---
+
+<div align="center">
+
+**Built by [Raunit Raj](https://github.com/raunitttttttttt-alt)** | 💼 [LinkedIn](https://www.linkedin.com/in/raunit1/) | 🌐 [Portfolio](https://meet.raunitx.online/)
+
+</div>
